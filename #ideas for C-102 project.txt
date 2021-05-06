@@ -1,0 +1,9 @@
+#ideas for C-102 project
+
+1. search online
+2. conversion calculators for distance, temperature, etc.
+3. search a file with specific extensions
+4. list the contents and directories of a folder
+5. converting to jpg
+6. copying file contents to clipboard
+7. sending an email 
